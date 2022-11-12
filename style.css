@@ -1,0 +1,37 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    background-color: rgba(0, 100, 255);
+    font-weight: bolder;
+}
+
+#header_div {
+    font-family: 'Vampire Wars', sans-serif;
+    background-color: white;
+    border-radius: 20px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+
+p {
+    font-family: 'Lemon/Milk', sans-serif;
+    color: rgb(255, 50, 50);
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+
+.main_div button {
+    height: 50;
+    width: 100;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    font-size: 25px;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    text-shadow: 5px 5px 5px rgb(50, 50, 50);
+    line-height: 2;
+}
